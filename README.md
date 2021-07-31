@@ -1,4 +1,4 @@
-# This is a single screen app having two dice.
+# This is a single screen app with two dice.
 
 # How this app works ?
 
